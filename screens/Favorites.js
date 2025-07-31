@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
   emptyText: {
     marginTop: 10,
     fontSize: 18,
-    color: "#555",
+    color: "#fff",
   },
   card: {
     backgroundColor: "#fff",
